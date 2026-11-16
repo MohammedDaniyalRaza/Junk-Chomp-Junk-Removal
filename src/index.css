@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@import "./App.css";
+
+@theme {
+  --font-display: "Bagel Fat One", cursive;
+  --font-sub: "Lexend Deca", sans-serif;
+  --font-body: "Onest", sans-serif;
+  --font-mono: "Azeret Mono", monospace;
+
+  --color-ink: #0B0B0D;
+  --color-surface: #16161A;
+  --color-lime: #A6F31B;
+  --color-pink: #FF2E93;
+  --color-soft: #F4F4F0;
+  --color-muted: #8C8C96;
+  --color-debris: #6B4F3A;
+}
